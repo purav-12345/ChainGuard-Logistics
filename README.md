@@ -225,8 +225,8 @@ graph TD
 1.  **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/blockchain-supply-chain.git
-    cd blockchain-supply-chain
+    git clone https://github.com/your-username/ChainGuard Logistics.git
+    cd ChainGuard Logistics
     ```
 
 2.  **Set up the backend:**
@@ -268,6 +268,3 @@ For detailed instructions, refer to the `docs/` folder.
 
 -----
 
-## 📜 License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
