@@ -265,9 +265,6 @@ For detailed instructions, refer to the `docs/` folder.
 
 -----
 
-## 🤝 Contributing
-
-We welcome contributions\! Please feel free to open a pull request or submit an issue on this repository.
 
 -----
 
